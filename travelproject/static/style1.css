@@ -1,0 +1,6 @@
+{% load static %}
+body{
+<div class="background_image" style="background-image:url({% static 'images/reg.jpg' %})"></div>
+	</div>
+
+}
